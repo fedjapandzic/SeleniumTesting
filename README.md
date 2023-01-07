@@ -1,2 +1,2 @@
 # SeleniumTesting
-Repo for selenium tests on saucedemo.com (SVVT Project)
+Repo for selenium tests on www.fashionandfriends.com/ba (SVVT Project)
